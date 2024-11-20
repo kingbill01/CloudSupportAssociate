@@ -1,6 +1,20 @@
 ARP.TXT
 
-Address Resolution Protocol (ARP) is a protocol for mapping an Internet Protocol address (IP address) to a physical machine address that is recognized in the local network. For example, in IP Version 4, the most common level of IP in use today, an address is 32 bits long. In an Ethernet local area network, however, addresses for attached devices are 48 bits long. (The physical machine address is also known as a Media Access Control or MAC address.) A table, usually called the ARP cache, is used to maintain a correlation between each MAC address and its corresponding IP address. ARP provides the protocol rules for making this correlation and providing address conversion in both directions
+Address Resolution Protocol (ARP) is a protocol 
+for mapping an Internet Protocol address (IP address) 
+to a physical machine address that is recognized 
+in the local network. 
+For example, in IP Version 4, the most common level 
+of IP in use today, an address is 32 bits long. 
+In an Ethernet local area network, however, 
+addresses for attached devices are 48 bits long. 
+(The physical machine address is also known as a 
+Media Access Control or MAC address.) 
+A table, usually called the ARP cache, 
+is used to maintain a correlation between each 
+MAC address and its corresponding IP address. 
+ARP provides the protocol rules for making this correlation 
+and providing address conversion in both directions
 
 How ARP Works
 
